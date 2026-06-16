@@ -51,12 +51,14 @@ const hamid = {
 
 ## 🚀 Projects
 
-| Project | Description | Tech | Live |
+| Project | Description | Tech | Link |
 |---------|-------------|------|------|
+| 🔐 **login-signup** | Beautiful Login & Register page with mountain background UI | React · CSS | [View Repo](https://github.com/hamidshaikhy/login-signup) |
+| 💬 **feedback** | Public feedback platform — hashtag companies, upvote system (CorpComment) | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/feedback) |
+| 📝 **word-counter** | Real-time word & character counter with clean UI | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/word-counter) |
+| 🔢 **counter-js** | Interactive JS counter with smooth UI | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/counter-js) |
 | 🏫 **Gozineaval** | Educational institute website — fully responsive, custom UI | WordPress | [gozineaval.com](https://gozineaval.com/) |
 | 🏢 **Sadra Institute** | Corporate website — custom theme & responsive design | WordPress | [sadrain.com](https://sadrain.com/) |
-| 🔢 **Counter App** | Interactive JS counter with clean UI | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/counter-js) |
-| 📝 **Word Counter** | Real-time word & character counter | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/word-counter) |
 
 ---
 
