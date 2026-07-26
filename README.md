@@ -10,10 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+clean+%26+responsive+UIs+%F0%9F%8E%A8;JavaScript+%7C+ES6%2B+%7C+React+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="mailto:hamidshaikhy1382@gmail.com">
-  <img src="https://img.shields.io/badge/Open%20to%20Junior%20Front--End%20roles-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -62,6 +58,8 @@ const hamid = {
 | 💬 **feedback** | Public feedback platform — hashtag companies, upvote system (CorpComment) | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/feedback) |
 | 📝 **word-counter** | Real-time word & character counter with clean UI | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/word-counter) |
 | 🔢 **counter-js** | Interactive JS counter with smooth UI | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/counter-js) |
+| 💼 **Find-Job-Remote** | Job search web app — browse listings, view details, apply with resume | JavaScript | [View Repo](https://github.com/hamidshaikhy/Find-Job-Remote) |
+| 🧴 **perfume-shop** | Perfume store landing page | HTML · CSS · JS | [View Repo](https://github.com/hamidshaikhy/perfume-shop) |
 | 🏫 **Gozineaval** | Educational institute website — fully responsive, custom UI | WordPress | [gozineaval.com](https://gozineaval.com/) |
 | 🏢 **Sadra Institute** | Corporate website — custom theme & responsive design | WordPress | [sadrain.com](https://sadrain.com/) |
 
