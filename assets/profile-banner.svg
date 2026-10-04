@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hamid Shaikhy</title>
+  <desc id="desc">Front-end developer building interfaces with care</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1224"/><stop offset="1" stop-color="#142e49"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="300" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)"/>
+    <circle cx="1050" cy="150" r="195" fill="none" stroke="#5eead4" stroke-opacity=".12" stroke-width="1.5"/>
+    <circle cx="1050" cy="150" r="145" fill="none" stroke="#60a5fa" stroke-opacity=".22" stroke-width="1.5"/>
+    <circle cx="1050" cy="150" r="95" fill="none" stroke="#5eead4" stroke-opacity=".28" stroke-width="1.5"/>
+    <path d="M884 208l67-67 48 48 95-95" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="884" cy="208" r="6" fill="#5eead4"/><circle cx="1094" cy="94" r="6" fill="#60a5fa"/>
+    <rect x="62" y="63" width="42" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="62" y="142" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-2">Hamid Shaikhy</text>
+    <text x="64" y="188" fill="#8de5df" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="2">FRONT-END DEVELOPER</text>
+    <text x="64" y="235" fill="#b9c8d8" font-family="Arial, Helvetica, sans-serif" font-size="20">Building interfaces with care and clarity.</text>
+  </g>
+</svg>
